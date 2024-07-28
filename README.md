@@ -1,3 +1,9 @@
+### webappblog
+
+UI: `localhost:83`
+API heartbeat endpoint:  `http://localhost:8083/heartbeat`
+
+
 ### To run the project
 Run `docker compose up` in terminal
 
